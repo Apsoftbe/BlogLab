@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobLab.Web", "BlobLab.Web\BlobLab.Web.csproj", "{229D82B0-2CC1-44B9-A34C-B370E0F4BA2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{229D82B0-2CC1-44B9-A34C-B370E0F4BA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{229D82B0-2CC1-44B9-A34C-B370E0F4BA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{229D82B0-2CC1-44B9-A34C-B370E0F4BA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{229D82B0-2CC1-44B9-A34C-B370E0F4BA2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95FB261E-960A-4DE8-98B7-A6886F86CC59}
+	EndGlobalSection
+EndGlobal
